@@ -1,4 +1,5 @@
-<img width="1200" height="300" alt="Vinisha Yadav (1)" src="https://github.com/user-attachments/assets/80896c9c-acf1-4ae7-b156-5d6a4260db8e" />
+![Vinisha Yadav](https://github.com/user-attachments/assets/9f213cbc-b2fd-4291-920e-43af9d714e6b)
+
 
 🎓 Computer Science undergraduate  
 💻 Building data-driven applications and analytical systems  
