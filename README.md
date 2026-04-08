@@ -1,15 +1,16 @@
 ![Vinisha Yadav](https://github.com/user-attachments/assets/9f213cbc-b2fd-4291-920e-43af9d714e6b)
 
+Hi, I’m Vinisha. A Computer Science undergraduate. This GitHub showcases my work building data-driven applications and exploring the different fields of Computer Science, such as: software engineering and bioinformatics.
+
 ## Projects:
 - Data Analysis Pipeline  
 - Sustainability Web Application  
 - GUI Applications (Python, Tkinter)  
 
-## Skills:
-- Python, JavaScript  
-- Pandas, NumPy, Matplotlib  
-- HTML, CSS  
-- Node.js  
+**Languages:** Python, Java, JavaScript  
+**Data & Analysis:** Pandas, NumPy, Matplotlib  
+**Web:** HTML, CSS, Node.js  
+**Tools:** Git, MongoDB, Jupyter, VS Code  
 
 ## Connect:
 - LinkedIn: https://linkedin.com/in/vinisha-yadav
