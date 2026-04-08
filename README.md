@@ -6,7 +6,8 @@ This is my GitHub showcasing my work building data-driven applications and explo
 ## Projects:
 - Data Analysis Pipeline  
 - Sustainability Web Application  
-- GUI Applications (Python, Tkinter)  
+- GUI Applications (Python, Tkinter)
+- Databases
 
 ## Skills:
 **Languages:** Python, Java, JavaScript  
