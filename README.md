@@ -32,13 +32,13 @@ This is my GitHub showcasing my work building data-driven applications and explo
 
 <b>Languages</b>
 
-<div style="width:100%; border:1px solid #d0d7de; border-radius:10px; overflow:hidden; font-family:Arial; font-size:12px;">
+<div style="width:100%; border:1px solid #d0d7de; border-radius:10px; overflow:hidden; height:16px; font-size:0;">
 
-  <span style="display:inline-block; width:7.8%; background:#e34c26; height:18px;"></span>
-  <span style="display:inline-block; width:7.74%; background:#f1e05a; height:18px;"></span>
-  <span style="display:inline-block; width:4.46%; background:#563d7c; height:18px;"></span>
-  <span style="display:inline-block; width:75.08%; background:#3572A5; height:18px;"></span>
-  <span style="display:inline-block; width:4.92%; background:#336791; height:18px;"></span>
+  <span style="display:inline-block; width:7.8%; height:16px; background:#e34c26;"></span>
+  <span style="display:inline-block; width:7.74%; height:16px; background:#f1e05a;"></span>
+  <span style="display:inline-block; width:4.46%; height:16px; background:#563d7c;"></span>
+  <span style="display:inline-block; width:75.08%; height:16px; background:#3572A5;"></span>
+  <span style="display:inline-block; width:4.92%; height:16px; background:#336791;"></span>
 
 </div>
 
