@@ -32,33 +32,15 @@ This is my GitHub showcasing my work building data-driven applications and explo
 
 <b>Languages</b>
 
-<table>
-  <tr>
-    <td>HTML</td>
-    <td>███████░░░</td>
-    <td>39%</td>
-  </tr>
-  <tr>
-    <td>JavaScript</td>
-    <td>███████░░░</td>
-    <td>38.7%</td>
-  </tr>
-  <tr>
-    <td>CSS</td>
-    <td>████░░░░░░</td>
-    <td>22.3%</td>
-  </tr>
-  <tr>
-    <td>Python</td>
-    <td>████████████████████</td>
-    <td>375.4%</td>
-  </tr>
-  <tr>
-    <td>PLpgSQL</td>
-    <td>████░░░░░░</td>
-    <td>24.6%</td>
-  </tr>
-</table>
+<div style="width:100%; border:1px solid #d0d7de; border-radius:10px; overflow:hidden; font-family:Arial; font-size:12px;">
+
+  <span style="display:inline-block; width:7.8%; background:#e34c26; height:18px;"></span>
+  <span style="display:inline-block; width:7.74%; background:#f1e05a; height:18px;"></span>
+  <span style="display:inline-block; width:4.46%; background:#563d7c; height:18px;"></span>
+  <span style="display:inline-block; width:75.08%; background:#3572A5; height:18px;"></span>
+  <span style="display:inline-block; width:4.92%; background:#336791; height:18px;"></span>
+
+</div>
 
 ## Skills:
 **Languages:** Python, Java, JavaScript  
