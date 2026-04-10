@@ -9,8 +9,6 @@ This is my GitHub showcasing my work building data-driven applications and explo
 - GUI Applications (Python, Tkinter)
 - Databases
 
-&nbsp;&nbsp;&nbsp;
-<div style="border:1px solid; border-radius:10px; padding:12px;">
 <p>
   <code>C</code> <code>C#</code> <code>C++</code> <code>Java</code> 
   <code>JavaScript</code> <code>Python</code> <code>Swift</code> 
@@ -31,8 +29,6 @@ This is my GitHub showcasing my work building data-driven applications and explo
   <code>Data Visualisation</code>
   <code>Version Control</code> <code>Agile</code> <code>Testing</code>
 </p>
-
-</div>
 
 ## Skills:
 **Languages:** Python, Java, JavaScript  
