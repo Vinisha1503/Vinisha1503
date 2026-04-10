@@ -29,7 +29,24 @@ This is my GitHub showcasing my work building data-driven applications and explo
   Portfolio Development
 </p>
 
+<p align="center">
+  <code>C</code> <code>C#</code> <code>C++</code> <code>Java</code> 
+  <code>JavaScript</code> <code>Python</code> <code>Swift</code> 
+  <code>TypeScript</code> <code>HTML5</code> <code>Markdown</code>
+</p>
 
+<p align="center">
+  <code>React</code> <code>Express.js</code> <code>OpenGL</code> 
+  <code>scikit-learn</code> <code>PyTorch</code> <code>NumPy</code> 
+  <code>Pandas</code> <code>Matplotlib</code> <code>Plotly</code>
+</p>
+
+<p align="center">
+  <code>GitHub</code> <code>GitLab</code> <code>Gitpod</code> 
+  <code>MongoDB</code> <code>Anaconda</code> 
+  <code>Arduino</code> <code>Raspberry Pi</code> 
+  <code>Trello</code> <code>Canva</code>
+</p>
 
 ## Skills:
 **Languages:** Python, Java, JavaScript  
