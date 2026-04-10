@@ -1,7 +1,7 @@
 ![Vinisha Yadav](https://github.com/user-attachments/assets/9f213cbc-b2fd-4291-920e-43af9d714e6b)
 
-Hi, I’m Vinisha. A Computer Science undergraduate. 
-This is my GitHub showcasing my work building data-driven applications and exploring the different fields of Computer Science, such as: software engineering and bioinformatics.
+Hi, I’m Vinisha.
+I’m a Computer Science student at UEA with a strong interest in software development, data, and building practical projects. I enjoy turning ideas into real applications and continuously improving my coding skills. Currently working on academic and personal projects to strengthen my experience in programming and problem-solving.
 
 ## Projects:
 - Data Analysis Pipeline  
