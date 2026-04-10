@@ -9,27 +9,6 @@ This is my GitHub showcasing my work building data-driven applications and explo
 - GUI Applications (Python, Tkinter)
 - Databases
 
-<p>
-  <code>C</code> <code>C#</code> <code>C++</code> <code>Java</code> 
-  <code>JavaScript</code> <code>Python</code> <code>Swift</code> 
-  <code>TypeScript</code> <code>HTML5</code> <code>CSS</code> <code>Markdown</code>
-  <code>Node.js</code> <code>React</code> <code>Express.js</code> <code>OpenGL</code> 
-  <code>scikit-learn</code> <code>PyTorch</code> <code>NumPy</code> 
-  <code>Pandas</code> <code>Matplotlib</code> <code>Plotly</code>
-  <code>GitHub</code> <code>GitLab</code> <code>Gitpod</code> 
-  <code>MongoDB</code> <code>Anaconda</code> 
-  <code>Arduino</code> <code>Raspberry Pi</code> 
-  <code>Trello</code> <code>Canva</code>
-  <code>Data Structures</code> <code>Algorithms</code> 
-  <code>Object-Oriented Programming</code> <code>Software Development</code> 
-  <code>Debugging</code> <code>Jupyter</code>
-  <code>REST APIs</code> <code>Frontend Development</code> 
-  <code>Backend Development</code> <code>VS Code</code>
-  <code>Machine Learning</code> <code>Data Analysis</code> 
-  <code>Data Visualisation</code>
-  <code>Version Control</code> <code>Agile</code> <code>Testing</code>
-</p>
-
 <p align="center">
   <code>C</code> <code>C#</code> <code>C++</code> <code>Java</code> 
   <code>JavaScript</code> <code>Python</code> <code>Swift</code> 
