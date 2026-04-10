@@ -11,12 +11,12 @@ I’m a Computer Science student at UEA with a strong interest in software devel
 
 <p align="center">
   <code>C</code> <code>C#</code> <code>C++</code> <code>Java</code> 
-  <code>JavaScript</code> <code>Python</code> <code>Swift</code> 
+  <code>JavaScript</code> <code>Python</code> <code>Json</code> <code>Swift</code> 
   <code>TypeScript</code> <code>HTML5</code> <code>CSS</code> <code>Markdown</code>
   <code>Node.js</code> <code>React</code> <code>Express.js</code> <code>OpenGL</code> 
   <code>scikit-learn</code> <code>PyTorch</code> <code>NumPy</code> 
   <code>Pandas</code> <code>Matplotlib</code> <code>Plotly</code>
-  <code>GitHub</code> <code>GitLab</code> <code>Gitpod</code> 
+  <code>GitHub</code> <code>GitLab</code> 
   <code>MongoDB</code> <code>Anaconda</code> 
   <code>Arduino</code> <code>Raspberry Pi</code> 
   <code>Trello</code> <code>Canva</code>
