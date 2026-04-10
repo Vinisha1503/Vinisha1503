@@ -30,7 +30,7 @@ This is my GitHub showcasing my work building data-driven applications and explo
   <code>Version Control</code> <code>Agile</code> <code>Testing</code>
 </p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinisha1503&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinisha1503&layout=compact&theme=github_dark&hide_border=true)
 
 ## Skills:
 **Languages:** Python, Java, JavaScript  
