@@ -8,7 +8,9 @@ This is my GitHub showcasing my work building data-driven applications and explo
 - Sustainability Web Application  
 - GUI Applications (Python, Tkinter)
 - Databases
-  
+
+&nbsp;&nbsp;&nbsp;
+<div style="border:1px solid; border-radius:10px; padding:12px;">
 <p>
   <code>C</code> <code>C#</code> <code>C++</code> <code>Java</code> 
   <code>JavaScript</code> <code>Python</code> <code>Swift</code> 
