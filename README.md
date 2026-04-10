@@ -30,7 +30,31 @@ This is my GitHub showcasing my work building data-driven applications and explo
   <code>Version Control</code> <code>Agile</code> <code>Testing</code>
 </p>
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vinisha1503&layout=compact&theme=github_dark&hide_border=true)
+<b>Languages</b>
+
+<div style="border:1px solid; border-radius:10px; padding:10px; width:100%;">
+  
+<!-- Bar -->
+<div style="display:flex; height:12px; border-radius:6px; overflow:hidden; background:#e1e4e8;">
+  <div style="width:7.8%; background:#e34c26;"></div> <!-- HTML -->
+  <div style="width:7.74%; background:#f1e05a;"></div> <!-- JavaScript -->
+  <div style="width:4.46%; background:#563d7c;"></div> <!-- CSS -->
+  <div style="width:75.08%; background:#3572A5;"></div> <!-- Python -->
+  <div style="width:4.92%; background:#336791;"></div> <!-- PLpgSQL -->
+</div>
+
+<br>
+
+<!-- Labels -->
+<sub>
+🟠 HTML 39% &nbsp;&nbsp;&nbsp;
+🟡 JavaScript 38.7% &nbsp;&nbsp;&nbsp;
+🟣 CSS 22.3% &nbsp;&nbsp;&nbsp;
+🔵 Python 375.4% &nbsp;&nbsp;&nbsp;
+🔷 PLpgSQL 24.6%
+</sub>
+
+</div>
 
 ## Skills:
 **Languages:** Python, Java, JavaScript  
