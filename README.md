@@ -8,45 +8,25 @@ This is my GitHub showcasing my work building data-driven applications and explo
 - Sustainability Web Application  
 - GUI Applications (Python, Tkinter)
 - Databases
-
-<div style="border:1px solid; border-radius:10px; padding:12px;">
   
 <p>
   <code>C</code> <code>C#</code> <code>C++</code> <code>Java</code> 
   <code>JavaScript</code> <code>Python</code> <code>Swift</code> 
   <code>TypeScript</code> <code>HTML5</code> <code>Markdown</code>
-</p>
-
-<p>
   <code>React</code> <code>Express.js</code> <code>OpenGL</code> 
   <code>scikit-learn</code> <code>PyTorch</code> <code>NumPy</code> 
   <code>Pandas</code> <code>Matplotlib</code> <code>Plotly</code>
-</p>
-
-<p>
   <code>GitHub</code> <code>GitLab</code> <code>Gitpod</code> 
   <code>MongoDB</code> <code>Anaconda</code> 
   <code>Arduino</code> <code>Raspberry Pi</code> 
   <code>Trello</code> <code>Canva</code>
-</p>
-
-<p>
   <code>Data Structures</code> <code>Algorithms</code> 
   <code>Object-Oriented Programming</code> <code>Software Development</code> 
   <code>Debugging</code>
-</p>
-
-<p>
   <code>REST APIs</code> <code>Frontend Development</code> 
   <code>Backend Development</code>
-</p>
-
-<p>
   <code>Machine Learning</code> <code>Data Analysis</code> 
   <code>Data Visualisation</code>
-</p>
-
-<p>
   <code>Version Control</code> <code>Agile</code> <code>Testing</code>
 </p>
 
