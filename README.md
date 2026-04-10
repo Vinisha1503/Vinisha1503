@@ -9,40 +9,47 @@ This is my GitHub showcasing my work building data-driven applications and explo
 - GUI Applications (Python, Tkinter)
 - Databases
 
-<div style="border: 1px solid #30363d; border-radius: 12px; padding: 14px; background-color: #0d1117;">
-  <p>
-    <!-- Languages -->
-    <code>C</code> <code>C#</code> <code>C++</code> <code>Java</code> 
-    <code>JavaScript</code> <code>Python</code> <code>Swift</code> 
-    <code>TypeScript</code> <code>HTML5</code> <code>Markdown</code>
+<div style="border:1px solid; border-radius:10px; padding:12px;">
+  
+<p>
+  <code>C</code> <code>C#</code> <code>C++</code> <code>Java</code> 
+  <code>JavaScript</code> <code>Python</code> <code>Swift</code> 
+  <code>TypeScript</code> <code>HTML5</code> <code>Markdown</code>
+</p>
 
-    <!-- Frameworks & Libraries -->
-    <code>React</code> <code>Express.js</code> <code>OpenGL</code> 
-    <code>scikit-learn</code> <code>PyTorch</code> <code>NumPy</code> 
-    <code>Pandas</code> <code>Matplotlib</code> <code>Plotly</code>
+<p>
+  <code>React</code> <code>Express.js</code> <code>OpenGL</code> 
+  <code>scikit-learn</code> <code>PyTorch</code> <code>NumPy</code> 
+  <code>Pandas</code> <code>Matplotlib</code> <code>Plotly</code>
+</p>
 
-    <!-- Tools -->
-    <code>GitHub</code> <code>GitLab</code> <code>Gitpod</code> 
-    <code>MongoDB</code> <code>Anaconda</code> 
-    <code>Arduino</code> <code>Raspberry Pi</code> 
-    <code>Trello</code> <code>Canva</code>
+<p>
+  <code>GitHub</code> <code>GitLab</code> <code>Gitpod</code> 
+  <code>MongoDB</code> <code>Anaconda</code> 
+  <code>Arduino</code> <code>Raspberry Pi</code> 
+  <code>Trello</code> <code>Canva</code>
+</p>
 
-    <!-- Core CS Skills -->
-    <code>Data Structures</code> <code>Algorithms</code> 
-    <code>Object-Oriented Programming</code> <code>Software Development</code> 
-    <code>Debugging</code>
+<p>
+  <code>Data Structures</code> <code>Algorithms</code> 
+  <code>Object-Oriented Programming</code> <code>Software Development</code> 
+  <code>Debugging</code>
+</p>
 
-    <!-- Web & Development -->
-    <code>REST APIs</code> <code>Frontend Development</code> 
-    <code>Backend Development</code>
+<p>
+  <code>REST APIs</code> <code>Frontend Development</code> 
+  <code>Backend Development</code>
+</p>
 
-    <!-- Data & AI -->
-    <code>Machine Learning</code> <code>Data Analysis</code> 
-    <code>Data Visualisation</code>
+<p>
+  <code>Machine Learning</code> <code>Data Analysis</code> 
+  <code>Data Visualisation</code>
+</p>
 
-    <!-- Practices -->
-    <code>Version Control</code> <code>Agile</code> <code>Testing</code>
-  </p>
+<p>
+  <code>Version Control</code> <code>Agile</code> <code>Testing</code>
+</p>
+
 </div>
 
 ## Skills:
