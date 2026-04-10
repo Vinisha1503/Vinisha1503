@@ -30,9 +30,7 @@ This is my GitHub showcasing my work building data-driven applications and explo
   <code>Version Control</code> <code>Agile</code> <code>Testing</code>
 </p>
 
-<b>Languages</b>
-
-█ HTML ████░ JS ██ CSS ██████████████████████████████████████████████████ Python ██ PLpgSQL
+<img width="654" height="125" alt="image" src="https://github.com/user-attachments/assets/e897a14b-7878-44e1-a445-127e53ea7546" />
 
 ## Skills:
 **Languages:** Python, Java, JavaScript  
