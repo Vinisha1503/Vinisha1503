@@ -29,7 +29,7 @@ I’m a Computer Science student at UEA with a strong interest in software devel
   <code>Version Control</code> <code>Agile</code>
 </p>
 
-<img width="1282" height="203" alt="image" src="https://github.com/user-attachments/assets/f2335852-c2a3-4c26-9f61-ebbbe2074ad3" />
+<img width="1170" height="190" alt="image" src="https://github.com/user-attachments/assets/f78438a4-3e84-4cbc-adf0-68b311d551b5" />
 
 ## Connect:
 - LinkedIn: https://linkedin.com/in/vinisha-yadav
