@@ -30,6 +30,8 @@ I’m a Computer Science student at UEA with a strong interest in software devel
 </p>
 
 <img width="1170" height="190" alt="image" src="https://github.com/user-attachments/assets/f78438a4-3e84-4cbc-adf0-68b311d551b5" />
+<img width="1061" height="138" alt="image" src="https://github.com/user-attachments/assets/76b14747-8b46-4b66-a345-c02914e1eade" />
+
 
 ## Connect:
 - LinkedIn: https://linkedin.com/in/vinisha-yadav
